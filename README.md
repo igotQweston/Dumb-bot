@@ -1,2 +1,2 @@
-# Discord Bot
- Undocumented and shitty custom made discord bot
+# Dumb Bot
+ Undocumented and shitty discord bot
